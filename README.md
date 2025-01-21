@@ -11,6 +11,11 @@ The world calls me Kaleel.
 
 ## 👨‍💻 Tech Stack I Explore
 
+**Languages:** JavaScript | TypeScript | Solidity | Rust  
+**Frameworks/Libraries:** React | Next.js | Foundry | Hardhat  
+**Styling:** TailwindCSS | Shadcn  
+**Zero Knowledge:** Usually, a proof of a theorem contains more knowledge than the mere fact that the theorem is true.  
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
