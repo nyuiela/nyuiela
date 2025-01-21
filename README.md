@@ -11,10 +11,10 @@ The world calls me Kaleel.
 
 ## 👨‍💻 Tech Stack I Explore
 
-**Languages:** JavaScript | TypeScript | Solidity | Rust  
-**Frameworks/Libraries:** React | Next.js | Foundry | Hardhat  
-**Styling:** TailwindCSS | Shadcn  
-**Zero Knowledge:** Usually, a proof of a theorem contains more knowledge than the mere fact that the theorem is true.  
+- **Languages:** JavaScript | TypeScript | Solidity | Rust  
+- **Frameworks/Libraries:** React | Next.js | Foundry | Hardhat  
+- **Styling:** TailwindCSS | Shadcn  
+- **Zero Knowledge:** Usually, a proof of a theorem contains more knowledge than the mere fact that the theorem is true.  
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -23,8 +23,12 @@ The world calls me Kaleel.
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)  
 
+## 👷‍♂️ My Wakeup Calls
+I am working on blockchain agriculture tracing platform and exploring zero knowledge proofs.  
+The world around zero knowledge, AI agents and those two combined will skyrocket the development of countries.
 
-## 🪐 My planets
+
+## 🪐 My Planets
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nyuiela)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nyuiela)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=web&logoColor=white)](https://www.github.com)
